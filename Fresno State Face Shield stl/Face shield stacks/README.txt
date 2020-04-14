@@ -1,0 +1,2 @@
+If you are able to edit the Solidworks 2019 part file, you can create stacks of whatever size you desire by editing the linear pattern component.
+Also, it is possible to suppress or delete the first extrude cute to remove the "FRESNO STATE" logo to save print time.
