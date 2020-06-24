@@ -7,4 +7,9 @@ http://www.fresnostatenews.com/2020/04/16/engineering-students-alumni-develop-pr
 
 ![design]( https://github.com/szoghi/COVID19/blob/master/Fresno%20State%20Face%20Shield%20stl/EW%20printers%20Image.JPG)
 
+
+
+
+UCSF Fresno's Dr. Eric Day testing the PAPR machine
+
 ![design]( https://github.com/szoghi/COVID19/blob/master/CPAP%20to%20PAPR%20Conversion/Dr%20Eric%20Day%20testing%20out%20the%20PAPR.png)
