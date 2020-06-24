@@ -11,8 +11,9 @@ Face shield stacks printed at the Fresno State engineering labs
 
 
 
-PAPR machine retrofitted from an old CPAP machine. It can provide continuous filtered air (P100-rated filters) to medical providers
 
+PAPR machine retrofitted from an old CPAP machine. It can provide continuous filtered air (P100-rated filters) to medical providers
+![design]( https://github.com/szoghi/COVID19/blob/master/CPAP%20to%20PAPR%20Conversion/PAPR%20with%20filters.png)
 
 
 
