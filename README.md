@@ -21,5 +21,4 @@ PAPR machine retrofitted from an old CPAP machine. It can provide continuous fil
 
 
 UCSF Fresno's Dr. Eric Day testing the PAPR machine
-
 ![design]( https://github.com/szoghi/COVID19/blob/master/CPAP%20to%20PAPR%20Conversion/Dr%20Eric%20Day%20testing%20out%20the%20PAPR.png)
