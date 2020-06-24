@@ -5,7 +5,16 @@ We advise using 8.5"x14" transparency films and velcro to stick to the shield, a
 
 http://www.fresnostatenews.com/2020/04/16/engineering-students-alumni-develop-protective-equipment-for-health-care-professionals/
 
+Face shield stacks printed at the Fresno State engineering labs
+
 ![design]( https://github.com/szoghi/COVID19/blob/master/Fresno%20State%20Face%20Shield%20stl/EW%20printers%20Image.JPG)
+
+
+
+PAPR machine retrofitted from an old CPAP machine. It can provide continuous filtered air (P100-rated filters) to medical providers
+
+
+
 
 
 
